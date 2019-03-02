@@ -1,20 +1,20 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nikeson.com" resolutions="1x,2x" timestamp="1550023530585">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nikeson.com" resolutions="1x,2x" timestamp="1551509384463">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="4246829314" ref="about-me:experience:index:portfolio:images:videos:contact"/>
+    <file name="master_a-master.css" crc="3983550224" ref="about-me:experience:index:portfolio:images:videos:contact"/>
     <file name="nomq_preview_master_a-master.css" crc="4175310548" ref="about-me:experience:index:portfolio:images:videos:contact"/>
     <file name="about-me.css" crc="3921566410" ref="about-me"/>
     <file name="nomq_about-me.css" crc="506004413" ref="about-me"/>
     <file name="experience.css" crc="217236122" ref="experience"/>
     <file name="nomq_experience.css" crc="4092413091" ref="experience"/>
-    <file name="index.css" crc="4293793344" ref="index"/>
-    <file name="nomq_index.css" crc="308646970" ref="index"/>
-    <file name="portfolio.css" crc="8889703" ref="portfolio"/>
-    <file name="nomq_portfolio.css" crc="3880356879" ref="portfolio"/>
-    <file name="images.css" crc="506718029" ref="images"/>
-    <file name="nomq_images.css" crc="67991003" ref="images"/>
-    <file name="videos.css" crc="230682201" ref="videos"/>
-    <file name="nomq_videos.css" crc="3768131577" ref="videos"/>
+    <file name="index.css" crc="4041218620" ref="index"/>
+    <file name="nomq_index.css" crc="4083150382" ref="index"/>
+    <file name="portfolio.css" crc="514354952" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="4287204468" ref="portfolio"/>
+    <file name="images.css" crc="526114347" ref="images"/>
+    <file name="nomq_images.css" crc="4077302248" ref="images"/>
+    <file name="videos.css" crc="3879017441" ref="videos"/>
+    <file name="nomq_videos.css" crc="4096532645" ref="videos"/>
     <file name="contact.css" crc="370435774" ref="contact"/>
     <file name="nomq_contact.css" crc="4254768591" ref="contact"/>
     <file name="iefonts_contact.css" crc="3824530138" ref="contact"/>
@@ -65,6 +65,27 @@
     <file name="u1372-4.png" crc="232413044" ref="index:portfolio:experience:videos:contact:about-me:images"/>
     <file name="u1372-4_2x.png" crc="146360613" ref="index:portfolio:experience:videos:contact:about-me:images"/>
     <file name="logo.png" crc="4242116325" seo="true" ref="index:portfolio:experience:videos:contact:about-me:images">
+      <caption webpage="experience" alt=""/>
+      <caption webpage="experience" alt=""/>
+      <caption webpage="experience" alt=""/>
+      <caption webpage="experience" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="images" alt=""/>
+      <caption webpage="images" alt=""/>
+      <caption webpage="images" alt=""/>
+      <caption webpage="images" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
@@ -74,29 +95,29 @@
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="images" alt=""/>
-      <caption webpage="images" alt=""/>
-      <caption webpage="images" alt=""/>
-      <caption webpage="images" alt=""/>
-      <caption webpage="experience" alt=""/>
-      <caption webpage="experience" alt=""/>
-      <caption webpage="experience" alt=""/>
-      <caption webpage="experience" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="videos" alt=""/>
-      <caption webpage="videos" alt=""/>
-      <caption webpage="videos" alt=""/>
-      <caption webpage="videos" alt=""/>
     </file>
     <file name="logo_2x.png" crc="430488540" seo="true" ref="index:portfolio:experience:videos:contact:about-me:images">
+      <caption webpage="experience" alt=""/>
+      <caption webpage="experience" alt=""/>
+      <caption webpage="experience" alt=""/>
+      <caption webpage="experience" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="images" alt=""/>
+      <caption webpage="images" alt=""/>
+      <caption webpage="images" alt=""/>
+      <caption webpage="images" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
@@ -106,27 +127,6 @@
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="images" alt=""/>
-      <caption webpage="images" alt=""/>
-      <caption webpage="images" alt=""/>
-      <caption webpage="images" alt=""/>
-      <caption webpage="experience" alt=""/>
-      <caption webpage="experience" alt=""/>
-      <caption webpage="experience" alt=""/>
-      <caption webpage="experience" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="videos" alt=""/>
-      <caption webpage="videos" alt=""/>
-      <caption webpage="videos" alt=""/>
-      <caption webpage="videos" alt=""/>
     </file>
     <file name="my picks-u583-fr.jpg" crc="4047742049" ref="index"/>
     <file name="background_1.jpg" crc="452396519" ref="index:contact">
@@ -202,14 +202,14 @@
     </file>
     <file name="u18445-242.png" crc="3895677967" ref="about-me"/>
     <file name="u18445-24_2x2.png" crc="3922107168" ref="about-me"/>
-    <file name="about me2.jpg" crc="65192018" seo="true" ref="about-me:images">
+    <file name="about me2.jpg" crc="65192018" seo="true" ref="about-me">
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="images" alt=""/>
     </file>
-    <file name="about me_2x.jpg" crc="4280285850" seo="true" ref="about-me:images">
+    <file name="about me_2x.jpg" crc="4280285850" seo="true" ref="about-me">
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
@@ -228,12 +228,6 @@
     <file name="background_2x.jpg" crc="4190018563" seo="true" ref="images">
       <caption webpage="images" alt=""/>
     </file>
-    <file name="experience708x531.jpg" crc="4234133786" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
-    <file name="my picks.jpg" crc="3882177633" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
     <file name="ifugao.jpg" crc="3833979130" seo="true" ref="images">
       <caption webpage="images" alt=""/>
     </file>
@@ -250,12 +244,6 @@
       <caption webpage="images" alt=""/>
     </file>
     <file name="windows_2x.jpg" crc="4236031898" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
-    <file name="portfolio1.jpg" crc="3928642064" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
-    <file name="portfolio1_2x.jpg" crc="4190018563" seo="true" ref="images">
       <caption webpage="images" alt=""/>
     </file>
     <file name="portfolio5.jpg" crc="30746453" seo="true" ref="images">
@@ -282,22 +270,10 @@
     <file name="portfolio5-crop-u27931_2x.jpg" crc="4135918312" seo="true" ref="images">
       <caption webpage="images" alt=""/>
     </file>
-    <file name="about me-crop-u25516.jpg" crc="461191858" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
-    <file name="about me-crop-u25516_2x.jpg" crc="31552048" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
     <file name="banaue-crop-u23871.jpg" crc="3844585388" seo="true" ref="images">
       <caption webpage="images" alt=""/>
     </file>
     <file name="banaue-crop-u23871_2x.jpg" crc="3968006616" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
-    <file name="experience-crop-u25541.jpg" crc="209734348" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
-    <file name="experience-crop-u25541_2x.jpg" crc="3760461112" seo="true" ref="images">
       <caption webpage="images" alt=""/>
     </file>
     <file name="windows-crop-u23891.jpg" crc="358992927" seo="true" ref="images">
@@ -306,34 +282,10 @@
     <file name="windows-crop-u23891_2x.jpg" crc="193323946" seo="true" ref="images">
       <caption webpage="images" alt=""/>
     </file>
-    <file name="my picks-crop-u25573.jpg" crc="3848255899" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
-    <file name="my picks-crop-u25573_2x.jpg" crc="428846439" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
-    <file name="portfolio1-crop-u27892.jpg" crc="432484012" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
-    <file name="portfolio1-crop-u27892_2x.jpg" crc="4029545786" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
     <file name="background774x473.jpg" crc="3818364530" seo="true" ref="images">
       <caption webpage="images" alt=""/>
     </file>
     <file name="background774x473_2x.jpg" crc="175508129" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
-    <file name="about me791x440.jpg" crc="4268803730" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
-    <file name="about me791x440_2x.jpg" crc="365780512" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
-    <file name="experience631x473.jpg" crc="169728093" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
-    <file name="my picks473x473.jpg" crc="4276192278" seo="true" ref="images">
       <caption webpage="images" alt=""/>
     </file>
     <file name="ifugao814x473.jpg" crc="74697193" seo="true" ref="images">
@@ -352,12 +304,6 @@
       <caption webpage="images" alt=""/>
     </file>
     <file name="windows689x473_2x.jpg" crc="3845878522" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
-    <file name="portfolio1774x473.jpg" crc="4114270732" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
-    <file name="portfolio1774x473_2x.jpg" crc="66915815" seo="true" ref="images">
       <caption webpage="images" alt=""/>
     </file>
     <file name="portfolio5785x473.jpg" crc="303143444" seo="true" ref="images">
@@ -384,22 +330,10 @@
     <file name="portfolio5-crop-u27931_2x2.jpg" crc="288641486" seo="true" ref="images">
       <caption webpage="images" alt=""/>
     </file>
-    <file name="about me-crop-u255162.jpg" crc="291443806" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
-    <file name="about me-crop-u25516_2x2.jpg" crc="125124865" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
     <file name="banaue-crop-u238712.jpg" crc="3878042129" seo="true" ref="images">
       <caption webpage="images" alt=""/>
     </file>
     <file name="banaue-crop-u23871_2x2.jpg" crc="155982960" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
-    <file name="experience-crop-u255412.jpg" crc="4235209724" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
-    <file name="experience-crop-u25541_2x2.jpg" crc="86377524" seo="true" ref="images">
       <caption webpage="images" alt=""/>
     </file>
     <file name="windows-crop-u238912.jpg" crc="237758352" seo="true" ref="images">
@@ -408,34 +342,10 @@
     <file name="windows-crop-u23891_2x2.jpg" crc="4033194425" seo="true" ref="images">
       <caption webpage="images" alt=""/>
     </file>
-    <file name="my picks-crop-u255732.jpg" crc="30046891" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
-    <file name="my picks-crop-u25573_2x2.jpg" crc="4181165810" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
-    <file name="portfolio1-crop-u278922.jpg" crc="392305981" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
-    <file name="portfolio1-crop-u27892_2x2.jpg" crc="3797155027" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
     <file name="background543x332.jpg" crc="283820080" seo="true" ref="images">
       <caption webpage="images" alt=""/>
     </file>
     <file name="background543x332_2x.jpg" crc="3895872813" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
-    <file name="about me555x309.jpg" crc="3821408949" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
-    <file name="about me555x309_2x.jpg" crc="271019004" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
-    <file name="experience443x332.jpg" crc="4041809739" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
-    <file name="my picks332x332.jpg" crc="4182985515" seo="true" ref="images">
       <caption webpage="images" alt=""/>
     </file>
     <file name="ifugao571x332.jpg" crc="4007145856" seo="true" ref="images">
@@ -454,12 +364,6 @@
       <caption webpage="images" alt=""/>
     </file>
     <file name="windows484x332_2x.jpg" crc="340978565" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
-    <file name="portfolio1543x332.jpg" crc="88286790" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
-    <file name="portfolio1543x332_2x.jpg" crc="4086178015" seo="true" ref="images">
       <caption webpage="images" alt=""/>
     </file>
     <file name="portfolio5551x332.jpg" crc="352117270" seo="true" ref="images">
@@ -486,22 +390,10 @@
     <file name="portfolio5-crop-u27931_2x3.jpg" crc="3815494931" seo="true" ref="images">
       <caption webpage="images" alt=""/>
     </file>
-    <file name="about me-crop-u255163.jpg" crc="3881279362" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
-    <file name="about me-crop-u25516_2x3.jpg" crc="142037925" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
     <file name="banaue-crop-u238713.jpg" crc="38330160" seo="true" ref="images">
       <caption webpage="images" alt=""/>
     </file>
     <file name="banaue-crop-u23871_2x3.jpg" crc="4079178833" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
-    <file name="experience-crop-u255413.jpg" crc="110880707" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
-    <file name="experience-crop-u25541_2x3.jpg" crc="4262651565" seo="true" ref="images">
       <caption webpage="images" alt=""/>
     </file>
     <file name="windows-crop-u238913.jpg" crc="3789929000" seo="true" ref="images">
@@ -510,34 +402,10 @@
     <file name="windows-crop-u23891_2x3.jpg" crc="3959657168" seo="true" ref="images">
       <caption webpage="images" alt=""/>
     </file>
-    <file name="my picks-crop-u255733.jpg" crc="4104784862" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
-    <file name="my picks-crop-u25573_2x3.jpg" crc="3802326207" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
-    <file name="portfolio1-crop-u278923.jpg" crc="375839733" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
-    <file name="portfolio1-crop-u27892_2x3.jpg" crc="4169516378" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
     <file name="background435x266.jpg" crc="4035302854" seo="true" ref="images">
       <caption webpage="images" alt=""/>
     </file>
     <file name="background435x266_2x.jpg" crc="4124718459" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
-    <file name="about me444x247.jpg" crc="3832931497" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
-    <file name="about me444x247_2x.jpg" crc="65192018" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
-    <file name="experience354x266.jpg" crc="4057447549" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
-    <file name="my picks266x266.jpg" crc="3886013221" seo="true" ref="images">
       <caption webpage="images" alt=""/>
     </file>
     <file name="ifugao457x266.jpg" crc="4037423997" seo="true" ref="images">
@@ -558,12 +426,6 @@
     <file name="windows387x266_2x.jpg" crc="173563157" seo="true" ref="images">
       <caption webpage="images" alt=""/>
     </file>
-    <file name="portfolio1435x266.jpg" crc="3971445314" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
-    <file name="portfolio1435x266_2x.jpg" crc="3928642064" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
     <file name="portfolio5441x266.jpg" crc="3774304923" seo="true" ref="images">
       <caption webpage="images" alt=""/>
     </file>
@@ -576,40 +438,16 @@
     <file name="background-crop-u23727_2x4.jpg" crc="3446407" seo="true" ref="images">
       <caption webpage="images" alt=""/>
     </file>
-    <file name="my picks-crop-u255734.jpg" crc="3812074964" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
-    <file name="my picks-crop-u25573_2x4.jpg" crc="346618704" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
     <file name="windows-crop-u238914.jpg" crc="224469035" seo="true" ref="images">
       <caption webpage="images" alt=""/>
     </file>
     <file name="windows-crop-u23891_2x4.jpg" crc="4053395068" seo="true" ref="images">
       <caption webpage="images" alt=""/>
     </file>
-    <file name="about me-crop-u255164.jpg" crc="4103880797" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
-    <file name="about me-crop-u25516_2x4.jpg" crc="385612527" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
     <file name="ifugao-crop-u255934.jpg" crc="302662823" seo="true" ref="images">
       <caption webpage="images" alt=""/>
     </file>
     <file name="ifugao-crop-u25593_2x4.jpg" crc="4069391648" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
-    <file name="portfolio1-crop-u278924.jpg" crc="4046930672" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
-    <file name="portfolio1-crop-u27892_2x4.jpg" crc="463916248" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
-    <file name="experience-crop-u255414.jpg" crc="3999524148" seo="true" ref="images">
-      <caption webpage="images" alt=""/>
-    </file>
-    <file name="experience-crop-u25541_2x4.jpg" crc="207903705" seo="true" ref="images">
       <caption webpage="images" alt=""/>
     </file>
     <file name="banaue-crop-u238714.jpg" crc="4165919898" seo="true" ref="images">
@@ -624,12 +462,312 @@
     <file name="portfolio5-crop-u27931_2x4.jpg" crc="4080593319" seo="true" ref="images">
       <caption webpage="images" alt=""/>
     </file>
+    <file name="hope.jpg" crc="492406315" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="simlicity.jpg" crc="4140940170" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="hope2.jpg" crc="4197173367" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="hope_2x.jpg" crc="492406315" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="romans 1 16.jpg" crc="308747888" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="romans 1 16_2x.jpg" crc="3983076672" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="we praise and worship you.jpg" crc="275034899" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="we praise and worship you_2x.jpg" crc="4265051576" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="my picks_2.jpg" crc="398852784" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="my picks_2_2x.jpg" crc="526993566" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="simlicity2.jpg" crc="4066811982" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="simlicity_2x.jpg" crc="4140940170" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="worship him.jpg" crc="3767191312" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="worship him_2x.jpg" crc="4104471850" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="hope-crop-u28988.jpg" crc="242357881" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="hope-crop-u28988_2x.jpg" crc="3866148170" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="simlicity-crop-u29277.jpg" crc="284567403" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="simlicity-crop-u29277_2x.jpg" crc="421693153" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="romans 1 16-crop-u29019.jpg" crc="4015834565" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="romans 1 16-crop-u29019_2x.jpg" crc="190864080" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="worship him-crop-u29383.jpg" crc="187433011" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="worship him-crop-u29383_2x.jpg" crc="533839074" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="we praise and worship you-crop-u29050.jpg" crc="3758558309" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="we praise and worship you-crop-u29050_2x.jpg" crc="4177398554" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="my picks_2-crop-u29238.jpg" crc="474590942" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="my picks_2-crop-u29238_2x.jpg" crc="3842595840" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="hope587x473.jpg" crc="3811238726" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="hope587x473_2x.jpg" crc="310573195" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="romans 1 16800x473.jpg" crc="373831993" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="romans 1 16800x473_2x.jpg" crc="359110832" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="we praise and worship you355x473.jpg" crc="4241719050" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="we praise and worship you355x473_2x.jpg" crc="3763684100" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="my picks_2285x285.jpg" crc="71892244" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="my picks_2285x285_2x.jpg" crc="4290045602" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="simlicity763x473.jpg" crc="279515140" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="simlicity763x473_2x.jpg" crc="3936155046" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="worship him625x473.jpg" crc="4226092765" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="worship him625x473_2x.jpg" crc="430986498" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="hope-crop-u289882.jpg" crc="4248717936" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="hope-crop-u28988_2x2.jpg" crc="3979288687" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="simlicity-crop-u292772.jpg" crc="3758860853" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="simlicity-crop-u29277_2x2.jpg" crc="4097880165" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="romans 1 16-crop-u290192.jpg" crc="4037992821" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="romans 1 16-crop-u29019_2x2.jpg" crc="3792961495" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="worship him-crop-u293832.jpg" crc="3823332364" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="worship him-crop-u29383_2x2.jpg" crc="424072512" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="we praise and worship you-crop-u290502.jpg" crc="3941163137" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="we praise and worship you-crop-u29050_2x2.jpg" crc="156082309" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="my picks_2-crop-u292382.jpg" crc="397052231" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="my picks_2-crop-u29238_2x2.jpg" crc="486737949" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="hope412x332.jpg" crc="244543515" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="hope412x332_2x.jpg" crc="506545682" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="romans 1 16561x332.jpg" crc="3995848403" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="romans 1 16561x332_2x.jpg" crc="3945062868" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="we praise and worship you249x332.jpg" crc="3378710" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="we praise and worship you249x332_2x.jpg" crc="396465501" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="my picks_2200x200.jpg" crc="32842810" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="my picks_2200x200_2x.jpg" crc="211994655" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="simlicity536x332.jpg" crc="391789566" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="simlicity536x332_2x.jpg" crc="4288505142" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="worship him439x332.jpg" crc="3798668589" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="worship him439x332_2x.jpg" crc="198485665" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="hope-crop-u289883.jpg" crc="4251162609" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="hope-crop-u28988_2x3.jpg" crc="3916366601" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="simlicity-crop-u292773.jpg" crc="4073255484" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="simlicity-crop-u29277_2x3.jpg" crc="490675896" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="romans 1 16-crop-u290193.jpg" crc="3916527509" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="romans 1 16-crop-u29019_2x3.jpg" crc="102751566" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="worship him-crop-u293833.jpg" crc="376466352" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="worship him-crop-u29383_2x3.jpg" crc="4130651834" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="we praise and worship you-crop-u290503.jpg" crc="10198636" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="we praise and worship you-crop-u29050_2x3.jpg" crc="3967494467" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="my picks_2-crop-u292383.jpg" crc="3789565304" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="my picks_2-crop-u29238_2x3.jpg" crc="37845017" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="hope330x266.jpg" crc="33530315" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="hope330x266_2x.jpg" crc="4197173367" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="romans 1 16449x266.jpg" crc="4140997869" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="romans 1 16449x266_2x.jpg" crc="308747888" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="we praise and worship you199x266.jpg" crc="4016756388" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="we praise and worship you199x266_2x.jpg" crc="275034899" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="my picks_2266x266.jpg" crc="535444362" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="my picks_2266x266_2x.jpg" crc="3907076215" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="simlicity429x266.jpg" crc="519755499" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="simlicity429x266_2x.jpg" crc="4066811982" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="worship him351x266.jpg" crc="3880618725" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="worship him351x266_2x.jpg" crc="3767191312" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="we praise and worship you-crop-u290504.jpg" crc="3971982787" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="we praise and worship you-crop-u29050_2x4.jpg" crc="3864990532" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="worship him-crop-u293834.jpg" crc="66550156" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="worship him-crop-u29383_2x4.jpg" crc="338003809" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="hope-crop-u289884.jpg" crc="4078048669" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="hope-crop-u28988_2x4.jpg" crc="3983801676" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="my picks_2-crop-u292384.jpg" crc="481431870" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="my picks_2-crop-u29238_2x4.jpg" crc="75012221" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="romans 1 16-crop-u290194.jpg" crc="225235173" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="romans 1 16-crop-u29019_2x4.jpg" crc="3889756980" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="simlicity-crop-u292774.jpg" crc="397301656" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
+    <file name="simlicity-crop-u29277_2x4.jpg" crc="3969190248" seo="true" ref="images">
+      <caption webpage="images" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="453641308" seo="true" mt="1549884442319" redirect="true"/>
-  <file name="portfolio.html" crc="3938987336" seo="true" mt="1550022299136" redirect="true"/>
+  <file name="index.html" crc="3777477632" seo="true" mt="1551508668801" redirect="true"/>
+  <file name="portfolio.html" crc="4193921212" seo="true" mt="1551509294784" redirect="true"/>
   <file name="experience.html" crc="3978241966" seo="true" mt="1549693137339" redirect="true"/>
-  <file name="videos.html" crc="447961533" seo="true" mt="1550022587249" redirect="true"/>
+  <file name="videos.html" crc="3872089285" seo="true" mt="1550027923053" redirect="true"/>
   <file name="contact.html" crc="54554290" seo="true" mt="1549693137339" redirect="true"/>
   <file name="about-me.html" crc="107418427" seo="true" mt="1549693137339" redirect="true"/>
-  <file name="images.html" crc="4264445976" seo="true" mt="1550022505006" redirect="true"/>
+  <file name="images.html" crc="4009340481" seo="true" mt="1551509274263" redirect="true"/>
 </manifest>
