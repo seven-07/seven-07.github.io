@@ -1,648 +1,693 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://Nikeson.com/index.html</loc>
-    <lastmod>2019-03-02</lastmod>
+    <loc>http://nikeson.com/index.html</loc>
+    <lastmod>2019-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://Nikeson.com/images/logo.png</image:loc>
+      <image:loc>http://nikeson.com/images/logo.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/logo_2x.png</image:loc>
+      <image:loc>http://nikeson.com/images/logo_2x.gif</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://Nikeson.com/portfolio.html</loc>
-    <lastmod>2019-03-02</lastmod>
+    <loc>http://nikeson.com/portfolio.html</loc>
+    <lastmod>2019-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://Nikeson.com/images/logo.png</image:loc>
+      <image:loc>http://nikeson.com/images/logo.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/logo_2x.png</image:loc>
+      <image:loc>http://nikeson.com/images/logo_2x.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/background.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/background.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/banaue.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/yesterday%20is%20gone.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/windows.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/banaue.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/glick%20here-crop-u22780.png</image:loc>
+      <image:loc>http://nikeson.com/images/hope.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/glick%20here-crop-u227802.png</image:loc>
+      <image:loc>http://nikeson.com/images/youtube%20intro%20thumbnail.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/glick%20here-crop-u227803.png</image:loc>
+      <image:loc>http://nikeson.com/images/windows.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/glick%20here-crop-u227804.png</image:loc>
+      <image:loc>http://nikeson.com/images/glick%20here-crop-u22780.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/hope.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/glick%20here-crop-u227802.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/simlicity.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/glick%20here-crop-u227803.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikeson.com/images/glick%20here-crop-u227804.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://Nikeson.com/experience.html</loc>
-    <lastmod>2019-02-09</lastmod>
+    <loc>http://nikeson.com/experience.html</loc>
+    <lastmod>2019-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://Nikeson.com/images/logo.png</image:loc>
+      <image:loc>http://nikeson.com/images/logo.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/logo_2x.png</image:loc>
+      <image:loc>http://nikeson.com/images/logo_2x.gif</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://Nikeson.com/videos.html</loc>
-    <lastmod>2019-02-13</lastmod>
+    <loc>http://nikeson.com/videos.html</loc>
+    <lastmod>2019-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://Nikeson.com/images/logo.png</image:loc>
+      <image:loc>http://nikeson.com/images/logo.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/logo_2x.png</image:loc>
+      <image:loc>http://nikeson.com/images/logo_2x.gif</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://Nikeson.com/contact.html</loc>
-    <lastmod>2019-02-09</lastmod>
+    <loc>http://nikeson.com/contact.html</loc>
+    <lastmod>2019-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://Nikeson.com/images/logo.png</image:loc>
+      <image:loc>http://nikeson.com/images/logo.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/logo_2x.png</image:loc>
+      <image:loc>http://nikeson.com/images/logo_2x.gif</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://Nikeson.com/about-me.html</loc>
-    <lastmod>2019-02-09</lastmod>
+    <loc>http://nikeson.com/about-me.html</loc>
+    <lastmod>2019-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://Nikeson.com/images/logo.png</image:loc>
+      <image:loc>http://nikeson.com/images/logo.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/logo_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Nikeson.com/images/about%20me2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Nikeson.com/images/about%20me_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/logo_2x.gif</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://Nikeson.com/images.html</loc>
-    <lastmod>2019-03-02</lastmod>
+    <loc>http://nikeson.com/images.html</loc>
+    <lastmod>2019-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://Nikeson.com/images/logo.png</image:loc>
+      <image:loc>http://nikeson.com/images/logo.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/logo_2x.png</image:loc>
+      <image:loc>http://nikeson.com/images/logo_2x.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/background2.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/background2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/background_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/background_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/ifugao.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/ifugao.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/ifugao_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/ifugao_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/banaue2.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/banaue2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/banaue_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/banaue_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/windows2.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/windows2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/windows_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/windows_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/portfolio5.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/hope2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/portfolio5_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/hope_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/background-crop-u23727.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/romans%201%2016.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/background-crop-u23727_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/romans%201%2016_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/ifugao-crop-u25593.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/we%20praise%20and%20worship%20you.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/ifugao-crop-u25593_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/we%20praise%20and%20worship%20you_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/portfolio5-crop-u27931.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/my%20picks_2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/portfolio5-crop-u27931_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/my%20picks_2_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/banaue-crop-u23871.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/youtube%20intro%20thumbnail2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/banaue-crop-u23871_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/youtube%20intro%20thumbnail_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/windows-crop-u23891.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/yesterday%20is%20gone2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/windows-crop-u23891_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/yesterday%20is%20gone_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/background774x473.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/worship%20him.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/background774x473_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/worship%20him_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/ifugao814x473.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/portfolio5.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/ifugao814x473_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/portfolio5_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/banaue728x473.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/background-crop-u23727.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/banaue728x473_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/background-crop-u23727_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/windows689x473.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/hope-crop-u28988.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/windows689x473_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/hope-crop-u28988_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/portfolio5785x473.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/youtube%20intro%20thumbnail-crop-u29277.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/portfolio5785x473_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/youtube%20intro%20thumbnail-crop-u29277_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/background-crop-u237272.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/ifugao-crop-u25593.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/background-crop-u23727_2x2.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/ifugao-crop-u25593_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/ifugao-crop-u255932.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/romans%201%2016-crop-u29019.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/ifugao-crop-u25593_2x2.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/romans%201%2016-crop-u29019_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/portfolio5-crop-u279312.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/yesterday%20is%20gone-crop-u30873.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/portfolio5-crop-u27931_2x2.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/yesterday%20is%20gone-crop-u30873_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/banaue-crop-u238712.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/banaue-crop-u23871.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/banaue-crop-u23871_2x2.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/banaue-crop-u23871_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/windows-crop-u238912.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/we%20praise%20and%20worship%20you-crop-u29050.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/windows-crop-u23891_2x2.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/we%20praise%20and%20worship%20you-crop-u29050_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/background543x332.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/worship%20him-crop-u29383.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/background543x332_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/worship%20him-crop-u29383_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/ifugao571x332.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/windows-crop-u23891.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/ifugao571x332_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/windows-crop-u23891_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/banaue511x332.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/my%20picks_2-crop-u29238.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/banaue511x332_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/my%20picks_2-crop-u29238_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/windows484x332.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/portfolio5-crop-u27931.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/windows484x332_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/portfolio5-crop-u27931_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/portfolio5551x332.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/background774x473.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/portfolio5551x332_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/background774x473_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/background-crop-u237273.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/ifugao814x473.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/background-crop-u23727_2x3.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/ifugao814x473_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/ifugao-crop-u255933.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/banaue728x473.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/ifugao-crop-u25593_2x3.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/banaue728x473_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/portfolio5-crop-u279313.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/windows689x473.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/portfolio5-crop-u27931_2x3.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/windows689x473_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/banaue-crop-u238713.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/hope587x473.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/banaue-crop-u23871_2x3.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/hope587x473_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/windows-crop-u238913.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/romans%201%2016800x473.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/windows-crop-u23891_2x3.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/romans%201%2016800x473_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/background435x266.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/we%20praise%20and%20worship%20you355x473.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/background435x266_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/we%20praise%20and%20worship%20you355x473_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/ifugao457x266.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/my%20picks_2285x285.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/ifugao457x266_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/my%20picks_2285x285_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/banaue409x266.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/youtube%20intro%20thumbnail841x473.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/banaue409x266_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/youtube%20intro%20thumbnail841x473_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/windows387x266.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/yesterday%20is%20gone631x473.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/windows387x266_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/yesterday%20is%20gone631x473_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/portfolio5441x266.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/worship%20him625x473.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/portfolio5441x266_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/worship%20him625x473_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/background-crop-u237274.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/portfolio5785x473.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/background-crop-u23727_2x4.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/portfolio5785x473_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/windows-crop-u238914.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/background-crop-u237272.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/windows-crop-u23891_2x4.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/background-crop-u23727_2x2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/ifugao-crop-u255934.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/hope-crop-u289882.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/ifugao-crop-u25593_2x4.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/hope-crop-u28988_2x2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/banaue-crop-u238714.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/youtube%20intro%20thumbnail-crop-u292772.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/banaue-crop-u23871_2x4.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/youtube%20intro%20thumbnail-crop-u29277_2x2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/portfolio5-crop-u279314.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/ifugao-crop-u255932.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/portfolio5-crop-u27931_2x4.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/ifugao-crop-u25593_2x2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/hope2.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/romans%201%2016-crop-u290192.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/hope_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/romans%201%2016-crop-u29019_2x2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/romans%201%2016.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/yesterday%20is%20gone-crop-u308732.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/romans%201%2016_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/yesterday%20is%20gone-crop-u30873_2x2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/we%20praise%20and%20worship%20you.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/banaue-crop-u238712.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/we%20praise%20and%20worship%20you_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/banaue-crop-u23871_2x2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/my%20picks_2.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/we%20praise%20and%20worship%20you-crop-u290502.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/my%20picks_2_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/we%20praise%20and%20worship%20you-crop-u29050_2x2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/simlicity2.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/worship%20him-crop-u293832.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/simlicity_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/worship%20him-crop-u29383_2x2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/worship%20him.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/windows-crop-u238912.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/worship%20him_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/windows-crop-u23891_2x2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/hope-crop-u28988.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/my%20picks_2-crop-u292382.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/hope-crop-u28988_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/my%20picks_2-crop-u29238_2x2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/simlicity-crop-u29277.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/portfolio5-crop-u279312.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/simlicity-crop-u29277_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/portfolio5-crop-u27931_2x2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/romans%201%2016-crop-u29019.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/background543x332.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/romans%201%2016-crop-u29019_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/background543x332_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/worship%20him-crop-u29383.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/ifugao571x332.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/worship%20him-crop-u29383_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/ifugao571x332_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/we%20praise%20and%20worship%20you-crop-u29050.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/banaue511x332.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/we%20praise%20and%20worship%20you-crop-u29050_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/banaue511x332_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/my%20picks_2-crop-u29238.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/windows484x332.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/my%20picks_2-crop-u29238_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/windows484x332_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/hope587x473.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/hope412x332.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/hope587x473_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/hope412x332_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/romans%201%2016800x473.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/romans%201%2016561x332.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/romans%201%2016800x473_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/romans%201%2016561x332_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/we%20praise%20and%20worship%20you355x473.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/we%20praise%20and%20worship%20you249x332.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/we%20praise%20and%20worship%20you355x473_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/we%20praise%20and%20worship%20you249x332_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/my%20picks_2285x285.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/my%20picks_2200x200.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/my%20picks_2285x285_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/my%20picks_2200x200_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/simlicity763x473.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/youtube%20intro%20thumbnail590x332.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/simlicity763x473_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/youtube%20intro%20thumbnail590x332_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/worship%20him625x473.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/yesterday%20is%20gone443x332.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/worship%20him625x473_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/yesterday%20is%20gone443x332_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/hope-crop-u289882.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/worship%20him439x332.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/hope-crop-u28988_2x2.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/worship%20him439x332_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/simlicity-crop-u292772.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/portfolio5551x332.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/simlicity-crop-u29277_2x2.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/portfolio5551x332_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/romans%201%2016-crop-u290192.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/background-crop-u237273.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/romans%201%2016-crop-u29019_2x2.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/background-crop-u23727_2x3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/worship%20him-crop-u293832.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/hope-crop-u289883.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/worship%20him-crop-u29383_2x2.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/hope-crop-u28988_2x3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/we%20praise%20and%20worship%20you-crop-u290502.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/youtube%20intro%20thumbnail-crop-u292773.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/we%20praise%20and%20worship%20you-crop-u29050_2x2.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/youtube%20intro%20thumbnail-crop-u29277_2x3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/my%20picks_2-crop-u292382.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/ifugao-crop-u255933.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/my%20picks_2-crop-u29238_2x2.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/ifugao-crop-u25593_2x3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/hope412x332.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/romans%201%2016-crop-u290193.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/hope412x332_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/romans%201%2016-crop-u29019_2x3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/romans%201%2016561x332.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/yesterday%20is%20gone-crop-u308733.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/romans%201%2016561x332_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/yesterday%20is%20gone-crop-u30873_2x3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/we%20praise%20and%20worship%20you249x332.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/banaue-crop-u238713.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/we%20praise%20and%20worship%20you249x332_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/banaue-crop-u23871_2x3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/my%20picks_2200x200.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/we%20praise%20and%20worship%20you-crop-u290503.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/my%20picks_2200x200_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/we%20praise%20and%20worship%20you-crop-u29050_2x3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/simlicity536x332.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/worship%20him-crop-u293833.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/simlicity536x332_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/worship%20him-crop-u29383_2x3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/worship%20him439x332.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/windows-crop-u238913.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/worship%20him439x332_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/windows-crop-u23891_2x3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/hope-crop-u289883.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/my%20picks_2-crop-u292383.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/hope-crop-u28988_2x3.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/my%20picks_2-crop-u29238_2x3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/simlicity-crop-u292773.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/portfolio5-crop-u279313.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/simlicity-crop-u29277_2x3.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/portfolio5-crop-u27931_2x3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/romans%201%2016-crop-u290193.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/background435x266.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/romans%201%2016-crop-u29019_2x3.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/background435x266_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/worship%20him-crop-u293833.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/ifugao457x266.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/worship%20him-crop-u29383_2x3.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/ifugao457x266_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/we%20praise%20and%20worship%20you-crop-u290503.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/banaue409x266.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/we%20praise%20and%20worship%20you-crop-u29050_2x3.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/banaue409x266_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/my%20picks_2-crop-u292383.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/windows387x266.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/my%20picks_2-crop-u29238_2x3.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/windows387x266_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/hope330x266.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/hope330x266.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/hope330x266_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/hope330x266_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/romans%201%2016449x266.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/romans%201%2016449x266.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/romans%201%2016449x266_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/romans%201%2016449x266_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/we%20praise%20and%20worship%20you199x266.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/we%20praise%20and%20worship%20you199x266.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/we%20praise%20and%20worship%20you199x266_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/we%20praise%20and%20worship%20you199x266_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/my%20picks_2266x266.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/my%20picks_2266x266.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/my%20picks_2266x266_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/my%20picks_2266x266_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/simlicity429x266.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/youtube%20intro%20thumbnail472x266.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/simlicity429x266_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/youtube%20intro%20thumbnail472x266_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/worship%20him351x266.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/yesterday%20is%20gone354x266.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/worship%20him351x266_2x.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/yesterday%20is%20gone354x266_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/we%20praise%20and%20worship%20you-crop-u290504.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/worship%20him351x266.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/we%20praise%20and%20worship%20you-crop-u29050_2x4.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/worship%20him351x266_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/worship%20him-crop-u293834.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/portfolio5441x266.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/worship%20him-crop-u29383_2x4.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/portfolio5441x266_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/hope-crop-u289884.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/background-crop-u237274.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/hope-crop-u28988_2x4.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/background-crop-u23727_2x4.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/my%20picks_2-crop-u292384.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/windows-crop-u238914.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/my%20picks_2-crop-u29238_2x4.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/windows-crop-u23891_2x4.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/romans%201%2016-crop-u290194.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/we%20praise%20and%20worship%20you-crop-u290504.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/romans%201%2016-crop-u29019_2x4.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/we%20praise%20and%20worship%20you-crop-u29050_2x4.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/simlicity-crop-u292774.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/yesterday%20is%20gone-crop-u308734.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nikeson.com/images/simlicity-crop-u29277_2x4.jpg</image:loc>
+      <image:loc>http://nikeson.com/images/yesterday%20is%20gone-crop-u30873_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikeson.com/images/ifugao-crop-u255934.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikeson.com/images/ifugao-crop-u25593_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikeson.com/images/hope-crop-u289884.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikeson.com/images/hope-crop-u28988_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikeson.com/images/my%20picks_2-crop-u292384.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikeson.com/images/my%20picks_2-crop-u29238_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikeson.com/images/worship%20him-crop-u293834.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikeson.com/images/worship%20him-crop-u29383_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikeson.com/images/banaue-crop-u238714.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikeson.com/images/banaue-crop-u23871_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikeson.com/images/romans%201%2016-crop-u290194.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikeson.com/images/romans%201%2016-crop-u29019_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikeson.com/images/youtube%20intro%20thumbnail-crop-u292774.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikeson.com/images/youtube%20intro%20thumbnail-crop-u29277_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikeson.com/images/portfolio5-crop-u279314.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nikeson.com/images/portfolio5-crop-u27931_2x4.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
