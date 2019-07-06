@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikeson.com" resolutions="1x,2x" timestamp="1562391387887">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikeson.com" resolutions="1x,2x" timestamp="1562410549752">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="235440120" ref="images:index:portfolio:contact:videos:about-me:experience"/>
+    <file name="master_a-master.css" crc="12413393" ref="images:index:portfolio:contact:videos:about-me:experience"/>
     <file name="nomq_preview_master_a-master.css" crc="4175310548" ref="images:index:portfolio:contact:videos:about-me:experience"/>
     <file name="images.css" crc="3885100198" ref="images"/>
     <file name="nomq_images.css" crc="184413977" ref="images"/>
@@ -12,9 +12,9 @@
     <file name="contact.css" crc="3988542899" ref="contact"/>
     <file name="nomq_contact.css" crc="4282094141" ref="contact"/>
     <file name="iefonts_contact.css" crc="3824530138" ref="contact"/>
-    <file name="videos.css" crc="172173434" ref="videos"/>
+    <file name="videos.css" crc="518385464" ref="videos"/>
     <file name="nomq_videos.css" crc="3947307828" ref="videos"/>
-    <file name="about-me.css" crc="4291348689" ref="about-me"/>
+    <file name="about-me.css" crc="493693028" ref="about-me"/>
     <file name="nomq_about-me.css" crc="3761079368" ref="about-me"/>
     <file name="experience.css" crc="396004771" ref="experience"/>
     <file name="nomq_experience.css" crc="4114854711" ref="experience"/>
@@ -65,68 +65,68 @@
     <file name="u1372-4.png" crc="232413044" ref="index:portfolio:experience:videos:contact:about-me:images"/>
     <file name="u1372-4_2x.png" crc="146360613" ref="index:portfolio:experience:videos:contact:about-me:images"/>
     <file name="logo.gif" crc="3991511880" seo="true" ref="index:portfolio:experience:videos:contact:about-me:images">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="images" alt=""/>
-      <caption webpage="images" alt=""/>
-      <caption webpage="images" alt=""/>
-      <caption webpage="images" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="videos" alt=""/>
-      <caption webpage="videos" alt=""/>
-      <caption webpage="videos" alt=""/>
-      <caption webpage="videos" alt=""/>
       <caption webpage="experience" alt=""/>
       <caption webpage="experience" alt=""/>
       <caption webpage="experience" alt=""/>
       <caption webpage="experience" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="images" alt=""/>
+      <caption webpage="images" alt=""/>
+      <caption webpage="images" alt=""/>
+      <caption webpage="images" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
     </file>
     <file name="logo_2x.gif" crc="3991511880" seo="true" ref="index:portfolio:experience:videos:contact:about-me:images">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="images" alt=""/>
-      <caption webpage="images" alt=""/>
-      <caption webpage="images" alt=""/>
-      <caption webpage="images" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="videos" alt=""/>
-      <caption webpage="videos" alt=""/>
-      <caption webpage="videos" alt=""/>
-      <caption webpage="videos" alt=""/>
       <caption webpage="experience" alt=""/>
       <caption webpage="experience" alt=""/>
       <caption webpage="experience" alt=""/>
       <caption webpage="experience" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="images" alt=""/>
+      <caption webpage="images" alt=""/>
+      <caption webpage="images" alt=""/>
+      <caption webpage="images" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
     </file>
     <file name="my picks-u583-fr.jpg" crc="4047742049" ref="index"/>
     <file name="background_1.jpg" crc="452396519" ref="index:contact">
@@ -142,11 +142,13 @@
     </file>
     <file name="my picks-u583-fr2.jpg" crc="29487964" ref="index"/>
     <file name="my picks-u583-fr3.jpg" crc="478516765" ref="index"/>
-    <file name="icon_menu.png" crc="155895224" ref="index:about-me">
+    <file name="icon_menu.png" crc="155895224" ref="index:about-me:videos">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
+      <caption webpage="videos" alt=""/>
+      <caption webpage="videos" alt=""/>
     </file>
     <file name="my picks-u583-fr4.jpg" crc="3901573697" ref="index"/>
     <file name="my picks-u583-fr5.jpg" crc="3905706429" ref="index"/>
@@ -839,8 +841,8 @@
   <file name="index.html" crc="224085640" seo="true" mt="1562389703944" redirect="true"/>
   <file name="portfolio.html" crc="3956303432" seo="true" mt="1562389636871" redirect="true"/>
   <file name="experience.html" crc="3864250577" seo="true" mt="1562389636871" redirect="true"/>
-  <file name="videos.html" crc="4241510847" seo="true" mt="1562390569993" redirect="true"/>
+  <file name="videos.html" crc="3796669720" seo="true" mt="1562410451153" redirect="true"/>
   <file name="contact.html" crc="4243881576" seo="true" mt="1562389986258" redirect="true"/>
-  <file name="about-me.html" crc="177898823" seo="true" mt="1562389636871" redirect="true"/>
+  <file name="about-me.html" crc="4116779829" seo="true" mt="1562410478634" redirect="true"/>
   <file name="images.html" crc="4249543522" seo="true" mt="1562389636871" redirect="true"/>
 </manifest>
